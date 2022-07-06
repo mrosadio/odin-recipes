@@ -1,2 +1,2 @@
-# odin-recipes-copy
+# odin-recipes
 Odin Project Recipes
